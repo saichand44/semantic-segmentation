@@ -13,5 +13,4 @@ The Cityscapes Dataset which contains 20 categories / classes and a different co
 OpenCV's Deep Neural Network module has been used to load the ENet model
 
 ### Results
-#### Test Image                                                      Result
-![image](https://user-images.githubusercontent.com/14955987/209276684-14a7e290-a71d-430e-8484-ad3544f46797.png)
+![image](https://user-images.githubusercontent.com/14955987/209277088-f8c43b70-3119-43b1-88a1-b0d36115c0c7.png)
